@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "kevin-template",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "189b33fe-253d-4f72-832f-d15529fb0a28",
+      "database_name": "kevin-database"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
